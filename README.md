@@ -1,2 +1,2 @@
 # html-practice
-Putting test websites in here. Also CSS, JS. 
+Putting test and practice websites in here
