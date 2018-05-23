@@ -1,0 +1,7 @@
+var quotes = [{id:0,kind:'inspiring',quote:"An open mind is a like a fortress with its gates unbarred and unguarded",author:"Ravenor"},
+               {id:1,kind:'poetic',quote:"Blessed is the mind too small for doubt",author:"Eisenhorn"},
+               {id:2,kind:'random',quote:'A wizard is never late, nor is he early. He arrives precisely when he means to',author:"Gandalf the White"},
+               {id:3,kind:'inspiring',quote:'<bold>Persians</bold>: Spartans, lay down your weapons! <br><bold>Spartans</bold>: Persians, come and take them!',author:"King Leonidas"}, 
+               {id:4,kind:'poetic',quote:'It is as fitting for a valiant heart to bear misfortune as it is to exult in success',author:'Miguel de Cervantes'},
+               {id:5,kind:'random',quote:"Two destroyers, the Nubian and the Zulu, were joined together to make a new ship, the Zubian",author:"Chatham Naval Dockyard"},
+               {id:6,kind:'poetic',quote:"I wandered lonely as a cloud / That floats on high o'er vales and hills / When all at once I saw a crowd, / A host, of golden daffodils",author:"William Wordsworth"}]
